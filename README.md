@@ -1,11 +1,11 @@
 ## Hi, there! 👋 I'm Mehmet
 
-I'm a Java backend developer focused on banking and payments APIs.
+I work on Java backends, mostly banking and payments APIs.
 
-- 🔎 I'm open to **junior Java / Spring** backend roles.
-- 👨‍💻 I'm passionate about Java, Spring Boot, PostgreSQL, and reliable banking-style APIs. Feel free to reach out if you want to talk.
-- 🏦 My flagship project is [retail-banking-core](https://github.com/Dedmoo/retail-banking-core) — JWT auth, double-entry transfers, idempotency, concurrency-safe balances, Testcontainers, and CI.
-- 🌐 I also ship a live **full-stack product ecosystem** — [Butarif Hub](https://butarif.com/hub): [Butarif](https://butarif.com), [Bulobi](https://bulobi.com), [Bukonu](https://bukonu.com), [Buvso](https://buvso.com), [Squpo](https://squpo.com). These are AI-built web products (not just backend demos): real domains, shipped UIs, and end-to-end product work.
-- 💬 You can ask me about **Java**, **Spring Boot**, **banking / payments APIs**, and shipping full-stack web products.
+- Looking for **junior Java / Spring** roles.
+- Comfortable with Spring Boot, PostgreSQL, JWT, tests and CI.
+- Main project here: [retail-banking-core](https://github.com/Dedmoo/retail-banking-core) (auth, double-entry transfers, idempotency, Testcontainers).
+- I also run a live full-stack product set under [Butarif Hub](https://butarif.com/hub): [Butarif](https://butarif.com), [Bulobi](https://bulobi.com), [Bukonu](https://bukonu.com), [Buvso](https://buvso.com), [Squpo](https://squpo.com). These are real websites with their own domains. The products use AI to generate content; the apps themselves are full-stack, not backend-only demos.
+- Ask me about Java, Spring Boot, banking APIs, or those sites.
 
-Want to know more about me? ➡️ [LinkedIn](https://www.linkedin.com/in/mehmetserinn/) · [Butarif Hub](https://butarif.com/hub)
+More: [LinkedIn](https://www.linkedin.com/in/mehmetserinn/) · [Butarif Hub](https://butarif.com/hub)
